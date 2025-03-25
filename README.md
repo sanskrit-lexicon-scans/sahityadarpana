@@ -1,7 +1,7 @@
 
 Sāhityadarpaṇa by Viśvanātha, translated James R. Ballantyne, 1851
 
-Refer: https://github.com/sanskrit-lexicon/PWG/issues/100
+Refer: https://github.com/sanskrit-lexicon/PWG/issues/101
 
 
 Sahitya Darpana Visvanatha Translation James Ballantyne R. Asiatic Society 1851.pdf
