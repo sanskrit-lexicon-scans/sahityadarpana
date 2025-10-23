@@ -15,7 +15,7 @@ PDF Title: The Sahitya-Darpana or mirror of composition,
 
 ## app1
 Provides access in two ways:
-- by 'verse' (section)  V = 1 to 757
+- by 'section'  (1 to 757)
   - Example: https://sanskrit-lexicon-scans.github.io/sahityadarpana/app1/?200
 - by 'internal page 1-343, line number within page
   - Example: https://sanskrit-lexicon-scans.github.io/sahityadarpana/app1/?100,1
